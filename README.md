@@ -4,8 +4,8 @@ Follow these steps to deploy the infrastructure.
 
 1.  **Clone the Repository:**
     ```bash
-    git clone https://github.com/DeevineFayvour/terraform_iac_basic.git
-    cd terraform_iac_basic
+    git clone https://github.com/DeevineFayvour/terraform_iac_2.git
+    cd terraform_iac_2
     ```
 
 2.  **Initialize Terraform:**
